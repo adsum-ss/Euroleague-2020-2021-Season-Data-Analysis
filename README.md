@@ -23,4 +23,3 @@ https://www.euroleague.net/
 ***
 
 ![turkish-airlines-euroleague](https://user-images.githubusercontent.com/87221500/136691136-15f1742e-05e6-421e-a56d-0969f21d0cdd.png)
-![2021_EuroLeague_Dörtlü_Final_logo](https://user-images.githubusercontent.com/87221500/136691210-6d106deb-2d7f-4de5-a277-f585a96981b8.png)
